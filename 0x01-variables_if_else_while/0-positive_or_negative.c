@@ -10,7 +10,7 @@
 
 int main(void)
 {
-int n;
+int n:
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
@@ -33,4 +33,3 @@ printf("%i is positive\n", n);
 return (0);
 
 }
-

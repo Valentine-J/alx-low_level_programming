@@ -4,7 +4,7 @@
  *followed by a new line
  *Return: Always 0 (success/correct)
  */
-int main (void)
+int main(void)
 {
 char ch;
 

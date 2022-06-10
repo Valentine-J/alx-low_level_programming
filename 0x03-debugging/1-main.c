@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
  * main - causes an infinite loop
- * return: 0
+ * Return: 0
  */
 
 int main(void)
@@ -15,15 +14,11 @@ printf("Infinite loop incoming :(\n");
 i = 0;
 
 /*
-*while (i < 10)
-*{
-*Infinite loop - No increase of variable
-*putchar(i);
-}
-*/
-
+ * while (i < 10)
+ * {
+ * putchar(i);
+ * }
+ */
 printf("Infinite loop avoided! \\o/\n");
-
 return (0);
 }
-

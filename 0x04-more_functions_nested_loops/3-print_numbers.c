@@ -3,6 +3,7 @@
  * print_numbers - print numbers
  * Return: Always 0
  */
+
 void print_numbers(void)
 {
 int i;
@@ -14,5 +15,5 @@ _putchar (i + '0');
 i++;
 }
 
-_putchar ('\n")
+_putchar ('\n')
 }

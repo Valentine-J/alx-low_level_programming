@@ -14,7 +14,6 @@ int result;
 
 i = 0;
 result = 0;
-
 while (i < 10)
 {
 while (result <= 14)
@@ -35,10 +34,8 @@ _putchar (second_number + '0');
 
 result++;
 }
-
 i++;
 result = 0;
-
 _putchar ('\n');
 }
 

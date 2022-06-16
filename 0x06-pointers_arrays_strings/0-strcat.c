@@ -3,7 +3,7 @@
  *_strcat - concatenate two strings
  *@dest: A pointer to a character that will be changed
  *@sre: A pointer to a character that will also be changed
- *Return: dest
+ * Return: dest
  */
 
 char *_strcat(char *dest, char *src)

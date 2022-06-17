@@ -6,7 +6,7 @@
  * Return: returns void
  */
 
-void reverse_array(int *a, int n);
+void reverse_array(int *a, int n)
 {
 int *start_c, *end_c, c;
 int i;
@@ -16,7 +16,7 @@ end_c = a;
 
 for (i = 0; i < n - 1; i++)
 {
-end_c++
+end_c++;
 }
 
 for (i = 0; i < n / 2; i++)

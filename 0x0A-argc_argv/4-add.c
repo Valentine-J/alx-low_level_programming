@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
+#include <string.h>
+
 /**
  * main - Print the positive numbers, followed by a new line
  * @argc: Number of arguments
